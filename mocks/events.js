@@ -1,0 +1,62 @@
+export const eventArr = [
+  {
+    id: 1,
+    eventImage:
+      [
+        "https://media.istockphoto.com/id/104731717/photo/luxury-resort.jpg?s=612x612&w=0&k=20&c=cODMSPbYyrn1FHake1xYz9M8r15iOfGz9Aosy9Db7mI=",
+        "https://lh5.googleusercontent.com/p/AF1QipOP7qhNLAJL74p8oCCw9D76wz2jrvAxDO8Rtav_=w1080-h624-n-k-no",
+        "https://lh5.googleusercontent.com/p/AF1QipOEBmHfWPy9uk8pu4HOSBg0nUymTIXZFUEQSBU6=w1080-h624-n-k-no",
+        "https://lh5.googleusercontent.com/p/AF1QipMnDhAvoqUt4iFa9Y4lWbCAI8IPp100TrjVCmpt=w1080-h624-n-k-no",
+      ],
+
+    eventName: "Chitwan Safari",
+    eventDate: "2023-09-01",
+    eventLocation: "Chitwan National Park",
+    eventDescription: "Description 1",
+  },
+  {
+    id: 2,
+    eventImage:
+      [
+        "https://media.istockphoto.com/id/104731717/photo/luxury-resort.jpg?s=612x612&w=0&k=20&c=cODMSPbYyrn1FHake1xYz9M8r15iOfGz9Aosy9Db7mI=",
+        "https://lh5.googleusercontent.com/p/AF1QipOP7qhNLAJL74p8oCCw9D76wz2jrvAxDO8Rtav_=w1080-h624-n-k-no",
+        "https://lh5.googleusercontent.com/p/AF1QipOEBmHfWPy9uk8pu4HOSBg0nUymTIXZFUEQSBU6=w1080-h624-n-k-no",
+        "https://lh5.googleusercontent.com/p/AF1QipMnDhAvoqUt4iFa9Y4lWbCAI8IPp100TrjVCmpt=w1080-h624-n-k-no",
+      ],
+
+    eventName: "Chitwan Safari",
+    eventDate: "2023-09-01",
+    eventLocation: "Chitwan National Park",
+    eventDescription: "Description 1",
+  },
+  {
+    id: 3,
+    eventImage:
+      [
+        "https://media.istockphoto.com/id/104731717/photo/luxury-resort.jpg?s=612x612&w=0&k=20&c=cODMSPbYyrn1FHake1xYz9M8r15iOfGz9Aosy9Db7mI=",
+        "https://lh5.googleusercontent.com/p/AF1QipOP7qhNLAJL74p8oCCw9D76wz2jrvAxDO8Rtav_=w1080-h624-n-k-no",
+        "https://lh5.googleusercontent.com/p/AF1QipOEBmHfWPy9uk8pu4HOSBg0nUymTIXZFUEQSBU6=w1080-h624-n-k-no",
+        "https://lh5.googleusercontent.com/p/AF1QipMnDhAvoqUt4iFa9Y4lWbCAI8IPp100TrjVCmpt=w1080-h624-n-k-no",
+      ],
+
+    eventName: "Chitwan Safari",
+    eventDate: "2023-09-01",
+    eventLocation: "Chitwan National Park",
+    eventDescription: "Description 1",
+  },
+  {
+    id: 4,
+    eventImage:
+      [
+        "https://media.istockphoto.com/id/104731717/photo/luxury-resort.jpg?s=612x612&w=0&k=20&c=cODMSPbYyrn1FHake1xYz9M8r15iOfGz9Aosy9Db7mI=",
+        "https://lh5.googleusercontent.com/p/AF1QipOP7qhNLAJL74p8oCCw9D76wz2jrvAxDO8Rtav_=w1080-h624-n-k-no",
+        "https://lh5.googleusercontent.com/p/AF1QipOEBmHfWPy9uk8pu4HOSBg0nUymTIXZFUEQSBU6=w1080-h624-n-k-no",
+        "https://lh5.googleusercontent.com/p/AF1QipMnDhAvoqUt4iFa9Y4lWbCAI8IPp100TrjVCmpt=w1080-h624-n-k-no",
+      ],
+
+    eventName: "Chitwan Safari",
+    eventDate: "2023-09-01",
+    eventLocation: "Chitwan National Park",
+    eventDescription: "Description 1",
+  },
+];

@@ -1,0 +1,5 @@
+export const aboutUsText = `Welcome to Ratnanagar Tourism, your gateway to exploring the hidden gems of Ratnanagar! Nestled in the heart of Nepal’s Chitwan District, Ratnanagar is a vibrant blend of rich culture, stunning landscapes, and warm hospitality. Our mission is to connect travelers with the authentic beauty of this region, from the lush expanses of Chitwan National Park to the serene banks of the Rapti River.
+
+We specialize in crafting unforgettable experiences—whether you're seeking thrilling jungle safaris, peaceful canoe rides, cultural tours to the local Tharu villages, or spiritual visits to historic temples. Our team of passionate locals is dedicated to making your journey seamless and memorable, offering insider knowledge and personalized service at every step.
+
+At Ratnanagar Tourism, we believe in sustainable travel that supports local communities and preserves the natural beauty of our home. Let us guide you through breathtaking wildlife encounters, captivating cultural exchanges, and adventures that inspire stories for a lifetime.`;
